@@ -12,7 +12,6 @@ class Solution {
 
         for (int num : set) {
 
-            // Is this the start of a sequence?
             if (!set.contains(num - 1)) {
 
                 int current = num;
