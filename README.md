@@ -20,10 +20,10 @@ This repository serves as a record of my progress and revision material as I con
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | — |
-| 🟡 Medium | — |
-| 🔴 Hard | — |
-| **Total** | **—** |
+| 🟢 Easy | 19 |
+| 🟡 Medium | 15 |
+| 🔴 Hard | 0 |
+| **Total** | **34** |
 
 > The counts will increase as I continue solving problems.
 
