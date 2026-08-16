@@ -88,6 +88,7 @@ LeetCode/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -113,4 +114,12 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
