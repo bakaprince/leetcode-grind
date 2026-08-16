@@ -73,3 +73,15 @@ LeetCode/
     │   └── ...
     │
     └── ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+<!---LeetCode Topics End-->
