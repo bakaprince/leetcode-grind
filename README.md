@@ -80,6 +80,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -133,4 +134,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
