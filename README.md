@@ -96,6 +96,7 @@ LeetCode/
 | [0041-first-missing-positive](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 ## Divide and Conquer
@@ -130,6 +131,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 ## Union-Find
@@ -147,5 +149,6 @@ LeetCode/
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
