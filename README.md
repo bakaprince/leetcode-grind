@@ -96,6 +96,7 @@ LeetCode/
 | [0041-first-missing-positive](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -138,4 +140,12 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
