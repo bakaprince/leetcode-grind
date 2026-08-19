@@ -82,6 +82,7 @@ LeetCode/
 | [0041-first-missing-positive](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -155,6 +156,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -180,4 +182,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
