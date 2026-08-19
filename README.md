@@ -139,6 +139,7 @@ LeetCode/
 | [0003-longest-substring-without-repeating-characters](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0076-minimum-window-substring](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
@@ -153,6 +154,7 @@ LeetCode/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
