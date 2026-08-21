@@ -1,5 +1,9 @@
 class Solution {
     public int maxArea(int[] height) {
+        if(height.length==0){
+            return -1;
+        }
+
         int left=0;
         int right=height.length-1;
         int maxArea=0;
