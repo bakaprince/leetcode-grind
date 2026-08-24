@@ -139,6 +139,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -207,4 +209,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
