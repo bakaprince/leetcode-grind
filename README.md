@@ -85,6 +85,7 @@ LeetCode/
 | [0031-next-permutation](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -117,6 +118,7 @@ LeetCode/
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
@@ -169,6 +171,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
