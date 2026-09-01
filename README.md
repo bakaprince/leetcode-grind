@@ -96,6 +96,7 @@ LeetCode/
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@ LeetCode/
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +249,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
