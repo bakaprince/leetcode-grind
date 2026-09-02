@@ -95,6 +95,7 @@ LeetCode/
 | [0238-product-of-array-except-self](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -123,6 +124,7 @@ LeetCode/
 | [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +259,24 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
