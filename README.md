@@ -90,6 +90,7 @@ LeetCode/
 | [0088-merge-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -179,6 +180,7 @@ LeetCode/
 | [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
