@@ -100,6 +100,7 @@ LeetCode/
 | [0239-sliding-window-maximum](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -232,6 +233,7 @@ LeetCode/
 | [0035-search-insert-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
