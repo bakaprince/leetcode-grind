@@ -163,6 +163,7 @@ LeetCode/
 | [0002-add-two-numbers](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@ LeetCode/
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0076-minimum-window-substring](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
@@ -270,6 +272,7 @@ LeetCode/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
