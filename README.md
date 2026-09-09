@@ -89,6 +89,7 @@ LeetCode/
 | [0041-first-missing-positive](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -233,6 +234,7 @@ LeetCode/
 | [0033-search-in-rotated-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -294,4 +296,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
