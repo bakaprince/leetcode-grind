@@ -80,6 +80,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
@@ -172,6 +173,7 @@ LeetCode/
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -301,4 +303,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
