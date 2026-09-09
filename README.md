@@ -162,6 +162,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
