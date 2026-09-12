@@ -175,6 +175,7 @@ LeetCode/
 | [0003-longest-substring-without-repeating-characters](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -200,6 +201,7 @@ LeetCode/
 | [0015-3sum](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -309,4 +311,20 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
