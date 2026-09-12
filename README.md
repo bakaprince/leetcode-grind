@@ -182,6 +182,7 @@ LeetCode/
 | [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
