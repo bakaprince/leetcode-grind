@@ -10,7 +10,6 @@ class Solution {
 
             digits[i] = 0;
         }
-
         int[] ans = new int[digits.length + 1];
         ans[0] = 1;
 
