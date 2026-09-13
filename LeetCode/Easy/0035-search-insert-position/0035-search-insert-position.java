@@ -4,15 +4,14 @@ class Solution {
         int last=nums.length-1;
 
         while(first<=last){
-            int mid=(first+last)/2;
+            int mid= (first+last)/2;
 
             if(nums[mid]==target){
                 return mid;
             }
             else if(nums[mid]>target){
                 last=mid-1;
-            }
-            else{
+            }else{
                 first=mid+1;
             }
         }
