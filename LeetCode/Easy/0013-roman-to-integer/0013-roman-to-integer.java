@@ -34,7 +34,6 @@ class Solution {
             String oneSymbol=s.substring(i,i+1);
             sum+=values.get(oneSymbol);
             i++;
-
         }
         return sum;
     }
