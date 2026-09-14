@@ -110,6 +110,7 @@ LeetCode/
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ LeetCode/
 | [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
