@@ -20,7 +20,6 @@ class Solution {
     public int romanToInt(String s) {
         int sum=0;
         int i=0;
-
         while(i<s.length()){
             if(i<s.length()-1){
                 String twoSymbol=s.substring(i,i+2);
@@ -30,9 +29,8 @@ class Solution {
                     continue;
                 }
             }
-
-            String oneSymbol=s.substring(i,i+1);
-            sum+=values.get(oneSymbol);
+            String single=s.substring(i,i+1);
+            sum+=values.get(single);
             i++;
         }
         return sum;
