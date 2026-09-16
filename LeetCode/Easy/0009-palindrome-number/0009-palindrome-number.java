@@ -3,7 +3,6 @@ class Solution {
         if(x<0){
             return false;
         }
-
         int original=x;
         int reverse=0;
 
@@ -12,6 +11,9 @@ class Solution {
             reverse=reverse*10+rem;
             x=x/10;
         }
-        return original==reverse;
+        if(original==reverse){
+            return true;
+        }
+        return false;
     }
 }
