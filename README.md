@@ -188,6 +188,7 @@ LeetCode/
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 ## Union-Find
@@ -202,6 +203,7 @@ LeetCode/
 | [0070-climbing-stairs](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0647-palindromic-substrings](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ LeetCode/
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
