@@ -1,47 +1,41 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-
-        int[] ans = {-1, -1};
-
-        // Find first occurrence
-        int first = 0;
-        int last = nums.length - 1;
-
-        while (first <= last) {
-
-            int mid = first + (last - first) / 2;
-
-            if (nums[mid] == target) {
-                ans[0] = mid;
-                last = mid - 1; 
-            }
-            else if (nums[mid] > target) {
-                last = mid - 1;
-            }
-            else {
-                first = mid + 1;
-            }
+        int first=this.findBound(nums,target,true);
+        if(first==-1){
+            return new int[]{-1,-1};
         }
 
-        first = 0;
-        last = nums.length - 1;
+        int last=this.findBound(nums,target,false);
 
-        while (first <= last) {
-
-            int mid = first + (last - first) / 2;
-
-            if (nums[mid] == target) {
-                ans[1] = mid;
-                first = mid + 1; 
+        return new int[] {first,last};
+    }
+    public int findBound(int[] nums,int target,boolean isFirst){
+        int start=0;
+        int end=nums.length-1;
+        while(start<=end){
+            int mid=start+(end-start)/2;
+            if(nums[mid]==target){
+            if(isFirst){
+                if(mid==start || nums[mid-1]!=target){
+                    return mid;
+                }
+                end=mid-1;
             }
-            else if (nums[mid] > target) {
-                last = mid - 1;
+            else{
+                if(mid==end || nums[mid+1]!=target){
+                    return mid;
+                }
+
+                start=mid+1;
             }
-            else {
-                first = mid + 1;
+            }
+            else if(nums[mid]>target){
+                end=mid-1;
+            }
+            else{
+                start=mid+1;
             }
         }
-
-        return ans;
+        return -1;
     }
 }
