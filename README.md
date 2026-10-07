@@ -93,6 +93,7 @@ LeetCode/
 | [0042-trapping-rain-water](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -184,6 +185,7 @@ LeetCode/
 | [0014-longest-common-prefix](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -295,6 +297,7 @@ LeetCode/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bakaprince/leetcode-grind/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Indexed Tree
